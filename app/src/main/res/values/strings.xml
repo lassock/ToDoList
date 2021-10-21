@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TodoList2</string>
+    <string name="personnel">Personnel</string>
+    <string name="sur_cet_ordinateur">Sur cet ordinateur</string>
+    <string name="gestion_salles">Gestion des salles d\'attentes  </string>
+    <string name="groupe_tache"><div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet consequatur deserunt, eveniet, illo iure magnam neque nihil, officiis quam quod sed sunt velit veniam! Cum cumque hic id natus quae?</div></string>
+
+
+</resources>
